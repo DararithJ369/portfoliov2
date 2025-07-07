@@ -34,7 +34,7 @@ const Contact = () => {
         "template_fukr4z4",
         {
           from_name: formData.name,
-          to_name: "Ali",
+          to_name: "Dararith J.",
           from_email: formData.email,
           to_email: "kimputdararith@gmail.com",
           message: formData.message,
